@@ -1,10 +1,10 @@
 [
   {
       "id": 1,
-      "name": "Fone Bluetooth",
-      "description": "Som de qualidade para o dia a dia",
+      "name": "Macbook",
+      "description": "Laptop da Apple para produtividade e lazer",
       "price": 199.90,
-      "image": "https://placehold.co/300x200?text=Fone"
+      "image": "https://placehold.co/300x200?text=Macbook"
     },
     {
       "id": 2,
@@ -19,5 +19,26 @@
       "description": "Precisão e praticidade",
       "price": 129.90,
       "image": "https://placehold.co/300x200?text=Mouse"
+    },
+    {
+      "id": 4,
+      "name": "Monitor",
+      "description": "Tela grande para produtividade",
+      "price": 29.90,
+      "image": "https://placehold.co/300x200?text=Monitor"
+    },
+    {
+      "id": 5,
+      "name": "Microfone condensador",
+      "description": "Capta áudio com alta qualidade",
+      "price": 1299.00,
+      "image": "https://placehold.co/300x200?text=Microfone"
+    },
+    {
+      "id": 6,
+      "name": "Fone de ouvido",
+      "description": "Som de alta qualidade",
+      "price": 499.00,
+      "image": "https://placehold.co/300x200?text=Fone"
     }
 ]
